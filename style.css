@@ -1,0 +1,20 @@
+h2{
+    color: forestgreen;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+h1{
+    color: crimson;
+    font-size: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: ridge;
+    border-color: orangered;
+    border-width: 10px;
+     
+}
+ol{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black
+}
